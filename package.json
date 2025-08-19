@@ -1,5 +1,5 @@
 {
-  "name": "rrbac-js",
+  "name": "@dfluxor/rrbac-js",
   "version": "0.0.1",
   "description": "Resource and Role Hierarchy Based Access Control (RRBAC) for Node.js. Implements hierarchical RBAC with resource and action support.",
   "main": "rrbac.js",
