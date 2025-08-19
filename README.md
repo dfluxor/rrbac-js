@@ -14,7 +14,7 @@ A Node.js implementation of the Resource and Role Hierarchy Based Access Control
 Clone this repository or copy the files into your project:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/dfluxor/rrbac-js.git
 cd rrbac
 ```
 
